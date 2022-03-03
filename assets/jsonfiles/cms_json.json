@@ -1,0 +1,1032 @@
+[
+  {
+    "fill_ins": {
+      "joke": "JOKE"
+    },
+    "meta": {
+      "language": "german",
+      "type": "chuck"
+    },
+    "modules": [
+      "GENERIC"
+    ],
+    "name": "chuck norris joke in german",
+    "neglect_utterences": false,
+    "response": {
+      "en-GB": "Here's a joke?  {joke}"
+    },
+    "type": "tts_from_response_formatted",
+    "utterences": {
+      "en-GB": [
+        "chuck norris joke in german"
+      ]
+    }
+  },
+  {
+    "fill_ins": {
+      "joke": "JOKE"
+    },
+    "meta": {
+      "language": "spanish",
+      "type": "geek"
+    },
+    "modules": [
+      "GENERIC"
+    ],
+    "name": "geek joke in spanish",
+    "neglect_utterences": false,
+    "response": {
+      "en-GB": "Here's a joke?  {joke}"
+    },
+    "type": "tts_from_response_formatted",
+    "utterences": {
+      "en-GB": [
+        "geek joke in spanish"
+      ]
+    }
+  },
+  {
+    "fill_ins": {
+      "joke": "JOKE"
+    },
+    "meta": {
+      "language": "german",
+      "type": "geek"
+    },
+    "modules": [
+      "GENERIC"
+    ],
+    "name": "geek joke in german",
+    "neglect_utterences": false,
+    "response": {
+      "en-GB": "Here's a joke?  {joke}"
+    },
+    "type": "tts_from_response_formatted",
+    "utterences": {
+      "en-GB": [
+        "geek joke in german"
+      ]
+    }
+  },
+  {
+    "fill_ins": {
+      "joke": "JOKE"
+    },
+    "meta": {
+      "language": "spanish"
+    },
+    "modules": [
+      "GENERIC"
+    ],
+    "name": "joke in spanish",
+    "neglect_utterences": false,
+    "response": {
+      "en-GB": "Here's a joke?  {joke}"
+    },
+    "type": "tts_from_response_formatted",
+    "utterences": {
+      "en-GB": [
+        "joke in spanish"
+      ]
+    }
+  },
+  {
+    "fill_ins": {
+      "joke": "JOKE"
+    },
+    "meta": {
+      "language": "german"
+    },
+    "modules": [
+      "GENERIC"
+    ],
+    "name": "joke in german",
+    "neglect_utterences": false,
+    "response": {
+      "en-GB": "Here's a joke?  {joke}"
+    },
+    "type": "tts_from_response_formatted",
+    "utterences": {
+      "en-GB": [
+        "joke in german"
+      ]
+    }
+  },
+  {
+    "fill_ins": {
+      "joke": "JOKE"
+    },
+    "meta": {
+      "type": "chuck"
+    },
+    "modules": [
+      "GENERIC"
+    ],
+    "name": "chuck norris joke",
+    "neglect_utterences": false,
+    "response": {
+      "en-GB": "Here's a joke?  {joke}"
+    },
+    "type": "tts_from_response_formatted",
+    "utterences": {
+      "en-GB": [
+        "chuck norris joke"
+      ]
+    }
+  },
+  {
+    "fill_ins": {
+      "joke": "JOKE"
+    },
+    "meta": {
+      "type": "geek"
+    },
+    "modules": [
+      "GENERIC"
+    ],
+    "name": "geek joke",
+    "neglect_utterences": false,
+    "response": {
+      "en-GB": "Here's a joke?  {joke}"
+    },
+    "type": "tts_from_response_formatted",
+    "utterences": {
+      "en-GB": [
+        "geek joke"
+      ]
+    }
+  },
+  {
+    "fill_ins": {
+      "joke": "JOKE"
+    },
+    "modules": [
+      "GENERIC"
+    ],
+    "name": "joke",
+    "neglect_utterences": false,
+    "response": {
+      "en-GB": "Here's a joke?  {joke}"
+    },
+    "type": "tts_from_response_formatted",
+    "utterences": {
+      "en-GB": [
+        "joke",
+        "say something funny",
+        "tell me something funny",
+        "say a joke",
+        "tell me a joke"
+      ]
+    }
+  },
+  {
+    "modules": [
+      "GENERIC"
+    ],
+    "name": "bye",
+    "neglect_utterences": false,
+    "response": {
+      "en-GB": "Goodbye!"
+    },
+    "type": "tts_from_response",
+    "utterences": {
+      "en-GB": [
+        "bye",
+        "good_bye"
+      ]
+    }
+  },
+  {
+    "modules": [
+      "GENERIC"
+    ],
+    "name": "contact_emergency",
+    "neglect_utterences": false,
+    "person_name": "",
+    "response": {
+      "en-GB": "Contacting steward",
+      "hi-IN": "मैं मदद के लिए बुला रही हूँ"
+    },
+    "type": "call",
+    "utterences": {
+      "en-GB": [
+        "emergency",
+        "help",
+        "sos",
+        "distress"
+      ],
+      "hi-IN": [
+        "मेरी मदद करो"
+      ]
+    },
+    "whom": "+447449187849"
+  },
+  {
+    "modules": [
+      "GENERIC"
+    ],
+    "name": "end call",
+    "neglect_utterences": false,
+    "response": {
+      "en-GB": "Ending the call",
+      "hi-IN": "कॉल समाप्त कर रहा हूँ"
+    },
+    "type": "end_call",
+    "utterences": {
+      "en-GB": [
+        "end call",
+        "end this call"
+      ],
+      "hi-IN": [
+        "इस कॉल को समाप्त करो"
+      ]
+    }
+  },
+  {
+    "modules": [
+      "GENERIC"
+    ],
+    "name": "contact vamshee",
+    "neglect_utterences": false,
+    "person_name": "Vamshee",
+    "response": {
+      "en-GB": "Contacting vamshee"
+    },
+    "type": "call",
+    "utterences": {
+      "en-GB": [
+        "contact vamshee",
+        "call vamshee"
+      ]
+    },
+    "whom": "+919494251080"
+  },
+  {
+    "modules": [
+      "GENERIC"
+    ],
+    "name": "contact Josh",
+    "neglect_utterences": false,
+    "person_name": "Josh",
+    "response": {
+      "en-GB": "Contacting Josh"
+    },
+    "type": "call",
+    "utterences": {
+      "en-GB": [
+        "contact Josh",
+        "call Josh"
+      ]
+    },
+    "whom": "+447801296636"
+  },
+  {
+    "modules": [
+      "GENERIC"
+    ],
+    "name": "message vamshee",
+    "neglect_utterences": false,
+    "person_name": "Vamshee",
+    "response": {
+      "en-GB": "Message sent"
+    },
+    "type": "message",
+    "utterences": {
+      "en-GB": [
+        "message vamshee"
+      ]
+    },
+    "whom": "+919494251080"
+  },
+  {
+    "modules": [
+      "GENERIC"
+    ],
+    "name": "show map",
+    "neglect_utterences": false,
+    "response": {
+      "en-GB": "showing the map"
+    },
+    "type": "ui",
+    "ui_action": "show_map",
+    "utterences": {
+      "en-GB": [
+        "show map"
+      ]
+    }
+  },
+  {
+    "modules": [
+      "GENERIC"
+    ],
+    "name": "hide map",
+    "neglect_utterences": false,
+    "response": {
+      "en-GB": "hiding the map"
+    },
+    "type": "ui",
+    "ui_action": "hide_map",
+    "utterences": {
+      "en-GB": [
+        "hide map"
+      ]
+    }
+  },
+  {
+    "fill_ins": {
+      "name": "ASSISTANT_NAME"
+    },
+    "modules": [
+      "GENERIC"
+    ],
+    "name": "what are you",
+    "neglect_utterences": false,
+    "response": {
+      "en-GB": "I am {name}: an AI virtual assistant developed by Conigital, I provide information and services through voice command.  It's nice to meet you!",
+      "hi-IN": "मेरा नाम अदिति है । आपसे मिल के खुशी हुई"
+    },
+    "type": "tts_from_response_formatted",
+    "utterences": {
+      "en-GB": [
+        "what are you",
+        "who are you"
+      ],
+      "hi-IN": [
+        "तुम कौन हो?"
+      ]
+    }
+  },
+  {
+    "modules": [
+      "GENERIC",
+      "CAPRI"
+    ],
+    "name": "tell me about bristol",
+    "neglect_utterences": false,
+    "response": {
+      "en-GB": "Bristol is a city straddling the River Avon in the southwest of England with a prosperous maritime history. Its former city-centre port is now a cultural hub, the Harbourside, where the M Shed museum explores local social and industrial heritage. The harbour's 19th-century warehouses now contain restaurants, shops and cultural institutions such as contemporary art gallery The Arnolfini."
+    },
+    "type": "tts_from_response",
+    "utterences": {
+      "en-GB": [
+        "tell me about bristol"
+      ]
+    }
+  },
+  {
+    "modules": [
+      "GENERIC",
+      "CAPRI"
+    ],
+    "name": "tell me about Cribbs Causeway",
+    "neglect_utterences": false,
+    "response": {
+      "en-GB": "The Mall at Cribbs Causeway is the premier shopping destination in the South West. The Mall hosts a line-up of over 130 top name stores including John Lewis and Marks & Spencer, Thomas Sabo, Jack Wills, Links of London, Lakeland, Joules, Bose and Office."
+    },
+    "type": "tts_from_response",
+    "utterences": {
+      "en-GB": [
+        "tell me about Cribbs Causeway"
+      ]
+    }
+  },
+  {
+    "modules": [
+      "GENERIC",
+      "CAPRI"
+    ],
+    "name": "tell me about London",
+    "neglect_utterences": false,
+    "response": {
+      "en-GB": "London, is the capital of England and the United Kingdom. It is a 21st-century city with history stretching back to Roman times. At its centre stand the imposing Houses of Parliament, the iconic ‘Big Ben’ clock tower and Westminster Abbey, site of British monarch coronations. Across the Thames River, the London Eye observation wheel provides panoramic views of the South Bank cultural complex, and the entire city.",
+      "hi-IN": "यूनाइटेड किंगडम और इंग्लैंड की राजधानी और सबसे अधिक आबादी वाला शहर है। ग्रेट ब्रिटेन द्वीप के दक्षिण पूर्व में थेम्स नदी के किनारे स्थित, लंदन पिछली दो सदियों से एक बड़ा व्यवस्थापन रहा है। लंदन राजनीति, शिक्षा, मनोरंजन, मीडिया, फ़ैशन और शिल्पी के क्षेत्र में वैश्विक शहर की स्थिति रखता है"
+    },
+    "type": "tts_from_response",
+    "utterences": {
+      "en-GB": [
+        "tell me about London"
+      ],
+      "hi-IN": [
+        "मुझे लंदन के बारे में बताओ"
+      ]
+    }
+  },
+  {
+    "modules": [
+      "GENERIC",
+      "CAPRI"
+    ],
+    "name": "tell me about Queen Elizabeth Olympic Park",
+    "neglect_utterences": false,
+    "response": {
+      "en-GB": "Queen Elizabeth Olympic Park, in London, is a sporting complex in Stratford. It was built for the 2012 Summer Olympics and the Paralympics, and is situated to the east of the city adjacent to the Stratford City development."
+    },
+    "type": "tts_from_response",
+    "utterences": {
+      "en-GB": [
+        "tell me about Queen Elizabeth Olympic Park"
+      ]
+    }
+  },
+  {
+    "modules": [
+      "GENERIC",
+      "CAPRI",
+      "SYNERGY"
+    ],
+    "name": "tell me about Conigital",
+    "neglect_utterences": false,
+    "response": {
+      "en-GB": "Formed in 2015, Conigital stands for ‘Connected Digital’. We are a Deep Tech, AI Driverless Vehicle Company developing our full-stack “Lift and Shift” driverless vehicle platform ConICAV for any vehicle type. As part of our roadmap, we have developed ConOPTIUM; our PaaS offering for actionable decision making support at scale."
+    },
+    "type": "tts_from_response",
+    "utterences": {
+      "en-GB": [
+        "tell me about conigital",
+        "tell me about connie",
+        "tell me about consider",
+        "tell me about conditional",
+        "tell me about connect",
+        "tell me about connector",
+        "tell me about considering",
+        "tell me about Gandhi Setu",
+        "tell me about karna sister",
+        "tell me about kaneez Atal",
+        "tell me about college days",
+        "tell me about Cognizant",
+        "tell me about Kaun digital",
+        "tell me about digital",
+        "tell me about positive",
+        "tell me about gane de do",
+        "tell me about college Atal",
+        "tell me about Kaun digital",
+        "tell me about positive",
+        "tell me about Thane city",
+        "tell me about condition",
+        "tell me a book on digital"
+
+      ]
+    }
+  },
+  {
+    "modules": [
+      "GENERIC",
+      "CAPRI",
+      "SYNERGY"
+    ],
+    "name": "tell me about Westfield",
+    "neglect_utterences": false,
+    "response": {
+      "en-GB": "Westfield Technology Group is the UK’s leading autonomous vehicle provider. Globally they are known for their niche sports cars with over 20,000 sold worldwide. Westfield were the first niche vehicle company in the UK to obtain European Small Series Type Approval for its vehicles, processes and premises."
+    },
+    "type": "tts_from_response",
+    "utterences": {
+      "en-GB": [
+        "tell me about Westfield"
+      ]
+    }
+  },
+  {
+    "modules": [
+      "GENERIC",
+      "CAPRI"
+    ],
+    "name": "tell me about AECOM",
+    "neglect_utterences": false,
+    "response": {
+      "en-GB": "AECOM is an American multinational engineering firm. AECOM has approximately 87,000 employees, and is number 157 on the 2019 Fortune 500 list. The company's official name from 1990 to 2015 was AECOM Technology Corporation, and is now AECOM."
+    },
+    "type": "tts_from_response",
+    "utterences": {
+      "en-GB": [
+        "tell me about AECOM"
+      ]
+    }
+  },
+  {
+    "modules": [
+      "GENERIC",
+      "CAPRI"
+    ],
+    "name": "tell me about LLDC",
+    "neglect_utterences": false,
+    "response": {
+      "en-GB": "The London Legacy Devenlopment Corporation was established in 2012, replacing the Olympic Park Legacy Company. It was formed as a mayoral development corporation under the powers of the Localism Act 2011. The mayoral development area covered by the development corporation is the Olympic Park and surrounding areas."
+    },
+    "type": "tts_from_response",
+    "utterences": {
+      "en-GB": [
+        "tell me about LLDC"
+      ]
+    }
+  },
+  {
+    "modules": [
+      "GENERIC",
+      "SYNERGY"
+    ],
+    "name": "tell me about Manchester Airport",
+    "neglect_utterences": false,
+    "response": {
+      "en-GB": "Manchester Airport is an international airport at Ringway, Manchester, England, 7.5 nautical miles south-west of Manchester city centre. In 2016, it was the third busiest airport in the United Kingdom in terms of passenger numbers and the busiest of those not serving London."
+    },
+    "type": "tts_from_response",
+    "utterences": {
+      "en-GB": [
+        "tell me about Manchester Airport",
+        "Manchester Airport"
+      ]
+    }
+  },
+  {
+    "modules": [
+      "GENERIC",
+      "SYNERGY"
+    ],
+    "name": "tell me about Manchester",
+    "neglect_utterences": false,
+    "response": {
+      "en-GB": "Manchester is a major city in the northwest of England with a rich industrial heritage. The Castlefield conservation area’s 18th-century canal system recalls the city’s days as a textile powerhouse, and visitors can trace this history at the interactive Museum of Science & Industry. The revitalised Salford Quays dockyards now house the Daniel Libeskind-designed Imperial War Museum North and the Lowry cultural centre."
+    },
+    "type": "tts_from_response",
+    "utterences": {
+      "en-GB": [
+        "tell me about Manchester",
+        "Manchester"
+      ]
+    }
+  },
+  {
+    "modules": [
+      "GENERIC"
+    ],
+    "name": "tell me about Southampton Airport",
+    "neglect_utterences": false,
+    "response": {
+      "en-GB": "Southampton Airport is an international airport officially located in Eastleigh, Hampshire in the United Kingdom. The airport, most of which is just across the border in the Borough of Eastleigh, is 3.5 nautical miles north-north-east of central Southampton."
+    },
+    "type": "tts_from_response",
+    "utterences": {
+      "en-GB": [
+        "tell me about Southampton Airport",
+        "Southampton Airport"
+      ]
+    }
+  },
+  {
+    "modules": [
+      "GENERIC"
+    ],
+    "name": "tell me about Southampton",
+    "neglect_utterences": false,
+    "response": {
+      "en-GB": "Southampton is a port city on England’s south coast. It’s home to the SeaCity Museum, with an interactive model of the Titanic, which departed from Southampton in 1912."
+    },
+    "type": "tts_from_response",
+    "utterences": {
+      "en-GB": [
+        "tell me about Southampton",
+        "Southampton"
+      ]
+    }
+  },
+  {
+    "close_type": "ALL_PREVIOUS",
+    "modules": [
+      "GENERIC"
+    ],
+    "name": "CLOSE_ALL_PREVIOUS",
+    "neglect_utterences": false,
+    "response": {
+      "en-GB": "Closing"
+    },
+    "type": "close_window",
+    "utterences": {
+      "en-GB": [
+        "close all windows except current",
+        "remove all windows except current",
+        "close all windows except current one",
+        "remove all windows except current one",
+        "close all previous windows",
+        "remove all previous windows",
+        "close all previously opened windows",
+        "remove all previously opened windows",
+        "close all previously opened windows except current",
+        "remove all previously opened windows except current",
+        "close all tabs except current",
+        "remove all tabs except current",
+        "close all tabs except current one",
+        "remove all tabs except current one",
+        "close all previous tabs",
+        "remove all previous tabs",
+        "close all previously opened tabs",
+        "remove all previously opened tabs",
+        "close all previously opened tabs except current",
+        "remove all previously opened tabs except current"
+      ]
+    },
+    "window_type": ""
+  },
+  {
+    "close_type": "PREVIOUS",
+    "modules": [
+      "GENERIC"
+    ],
+    "name": "CLOSE_PREVIOUS",
+    "neglect_utterences": false,
+    "response": {
+      "en-GB": "Closing"
+    },
+    "type": "close_window",
+    "utterences": {
+      "en-GB": [
+        "close previous window except current",
+        "remove previous window except current",
+        "close previous window except current one",
+        "remove previous window except current one",
+        "close previously opened window",
+        "remove previously opened window",
+        "close previously opened window except current",
+        "remove previously opened window except current",
+        "close previous tab except current",
+        "remove previous tab except current",
+        "close previous tab except current one",
+        "remove previous tab except current one",
+        "close previously opened tab",
+        "remove previously opened tab",
+        "close previously opened tab except current",
+        "remove previously opened tab except current",
+        "close previous window",
+        "close previous tab"
+      ]
+    },
+    "window_type": ""
+  },
+  {
+    "close_type": "ALL_TYPE",
+    "modules": [
+      "GENERIC"
+    ],
+    "name": "CLOSE_ALL_GOOGLE",
+    "neglect_utterences": false,
+    "response": {
+      "en-GB": "Closing"
+    },
+    "type": "close_window",
+    "utterences": {
+      "en-GB": [
+        "close all google windows",
+        "remove all google windows",
+        "close all google tabs",
+        "remove all google tabs"
+      ]
+    },
+    "window_type": "GOOGLE"
+  },
+  {
+    "close_type": "ALL_TYPE",
+    "modules": [
+      "GENERIC"
+    ],
+    "name": "CLOSE_ALL_YOUTUBE",
+    "neglect_utterences": false,
+    "response": {
+      "en-GB": "Closing"
+    },
+    "type": "close_window",
+    "utterences": {
+      "en-GB": [
+        "close all youtube windows",
+        "remove all youtube windows",
+        "close all youtube tabs",
+        "remove all youtube tabs"
+      ]
+    },
+    "window_type": "YOUTUBE*"
+  },
+  {
+    "close_type": "ALL_TYPE",
+    "modules": [
+      "GENERIC"
+    ],
+    "name": "CLOSE_ALL_WIKI",
+    "neglect_utterences": false,
+    "response": {
+      "en-GB": "Closing"
+    },
+    "type": "close_window",
+    "utterences": {
+      "en-GB": [
+        "close all wiki windows",
+        "remove all wiki windows",
+        "close all wiki tabs",
+        "remove all wiki tabs",
+        "close all wikipedia windows",
+        "remove all wikipedia windows",
+        "close all wikipedia tabs",
+        "remove all wikipedia tabs"
+      ]
+    },
+    "window_type": "WIKI"
+  },
+  {
+    "close_type": "ALL_TYPE",
+    "modules": [
+      "GENERIC"
+    ],
+    "name": "CLOSE_ALL_SOUTHAMPTON",
+    "neglect_utterences": false,
+    "response": {
+      "en-GB": "Closing"
+    },
+    "type": "close_window",
+    "utterences": {
+      "en-GB": [
+        "close all shopping windows",
+        "remove all shopping windows",
+        "close all shopping tabs",
+        "remove all shopping tabs"
+      ]
+    },
+    "window_type": "SOUTHAMPTON"
+  },
+  {
+    "close_type": "ALL_TYPE",
+    "modules": [
+      "GENERIC"
+    ],
+    "name": "CLOSE_ALL_MANCHESTER",
+    "neglect_utterences": false,
+    "response": {
+      "en-GB": "Closing"
+    },
+    "type": "close_window",
+    "utterences": {
+      "en-GB": [
+        "close all shopping windows",
+        "remove all shopping windows",
+        "close all shopping tabs",
+        "remove all shopping tabs"
+      ]
+    },
+    "window_type": "MANCHESTER"
+  },
+  {
+    "close_type": "ALL",
+    "modules": [
+      "GENERIC"
+    ],
+    "name": "CLOSE_ALL",
+    "neglect_utterences": false,
+    "response": {
+      "en-GB": "Closing"
+    },
+    "type": "close_window",
+    "utterences": {
+      "en-GB": [
+        "close all windows",
+        "remove all windows",
+        "close all tabs",
+        "remove all tabs"
+      ]
+    },
+    "window_type": ""
+  },
+  {
+    "close_type": "CURRENT",
+    "modules": [
+      "GENERIC"
+    ],
+    "name": "CLOSE_CURRENT",
+    "neglect_utterences": false,
+    "response": {
+      "en-GB": "Closing"
+    },
+    "type": "close_window",
+    "utterences": {
+      "en-GB": [
+        "close current window",
+        "remove current window",
+        "close current tab",
+        "remove current tab",
+        "close recent window",
+        "remove recent window",
+        "close recent tab",
+        "remove recent tab",
+        "close this window",
+        "remove this window",
+        "close this tab",
+        "remove this tab",
+        "close window",
+        "remove window",
+        "close tab",
+        "remove tab"
+      ]
+    },
+    "window_type": ""
+  },
+  {
+    "modules": [
+      "GENERIC"
+    ],
+    "name": "GOOGLE",
+    "neglect_utterences": true,
+    "response": {
+      "en-GB": "Searching"
+    },
+    "type": "open_window",
+    "utterences": {
+      "en-GB": [
+        "search google for",
+        "google for",
+        "google"
+      ]
+    },
+    "window_type": "GOOGLE"
+  },
+  {
+    "modules": [
+      "GENERIC"
+    ],
+    "name": "WIKI",
+    "neglect_utterences": true,
+    "response": {
+      "en-GB": "Searching"
+    },
+    "type": "open_window",
+    "utterences": {
+      "en-GB": [
+        "search wikipedia for",
+        "search wiki for",
+        "wikipedia for",
+        "wiki for",
+        "wikipedia",
+        "wiki"
+      ]
+    },
+    "window_type": "WIKI"
+  },
+  {
+    "modules": [
+      "GENERIC"
+    ],
+    "name": "SOUTHAMPTON SHOPPING",
+    "neglect_utterences": true,
+    "response": {
+      "en-GB": "Searching"
+    },
+    "type": "open_window",
+    "utterences": {
+      "en-GB": [
+        "I want to buy",
+        "I'd like to buy",
+        "I would like to buy",
+        "shop for",
+        "buy for",
+        "buy",
+        "shop",
+        "purchase"
+      ]
+    },
+    "window_type": "SOUTHAMPTON"
+  },
+  {
+    "modules": [
+      "GENERIC"
+    ],
+    "name": "MANCHESTER SHOPPING",
+    "neglect_utterences": true,
+    "response": {
+      "en-GB": "Searching"
+    },
+    "type": "open_window",
+    "utterences": {
+      "en-GB": [
+        "I'd like to buy",
+        "I would like to buy",
+        "shop for",
+        "buy for",
+        "buy",
+        "shop",
+        "purchase"
+      ]
+    },
+    "window_type": "MANCHESTER"
+  },
+  {
+    "modules": [
+      "GENERIC"
+    ],
+    "name": "YOUTUBE_SEARCH",
+    "neglect_utterences": true,
+    "response": {
+      "en-GB": "Searching"
+    },
+    "type": "open_window",
+    "utterences": {
+      "en-GB": [
+        "search youtube for",
+        "search video"
+      ]
+    },
+    "window_type": "YOUTUBE_SEARCH"
+  },
+  {
+    "modules": [
+      "GENERIC"
+    ],
+    "name": "YOUTUBE_PLAY",
+    "neglect_utterences": true,
+    "response": {
+      "en-GB": "Searching"
+    },
+    "type": "open_window",
+    "utterences": {
+      "en-GB": [
+        "play on youtube",
+        "play video",
+        "video"
+      ]
+    },
+    "window_type": "YOUTUBE_PLAY"
+  },
+  {
+    "modules": [
+      "GENERIC"
+    ],
+    "name": "POD_BOOKING",
+    "neglect_utterences": false,
+    "response": {
+      "en-GB": "which route would you like to book, we have manchester route"
+    },
+    "type": "pod_booking_init",
+    "utterences": {
+      "en-GB": [
+        "book a vehicle",
+        "book vehicle",
+        "book a pod",
+        "book pod"
+      ]
+    }
+  },
+  {
+    "modules": [
+      "GENERIC"
+    ],
+    "name": "TELL_ME_ABOUT",
+    "neglect_utterences": true,
+    "response": {
+      "en-GB": "fetching the results"
+    },
+    "type": "TELL_ME_ABOUT",
+    "utterences": {
+      "en-GB": [
+        "tell me about "
+      ]
+    }
+  },
+  {
+    "modules": [
+      "GENERIC"
+    ],
+    "name": "NAMED_ENTITIES",
+    "neglect_utterences": true,
+    "response": {
+      "en-GB": "fetching the results"
+    },
+    "type": "NAMED_ENTITIES",
+    "utterences": {
+      "en-GB": [
+        "what is",
+        "what are",
+        "who is",
+        "who was",
+        "who are",
+        "who were",
+        "what were"
+      ]
+    }
+  },
+  {
+    "modules": [
+      "GENERIC"
+    ],
+    "name": "EVENTS_RECOGNITION",
+    "neglect_utterences": true,
+    "response": {
+      "en-GB": "fetching the results"
+    },
+    "type": "EVENTS_RECOGNITION",
+    "utterences": {
+      "en-GB": [
+        "who is",
+        "who was",
+        "where is",
+        "where was",
+        "who were",
+        "where were",
+        "how "
+      ]
+    }
+  }
+]

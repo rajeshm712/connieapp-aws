@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "609136756320",
+    "project_id": "connie-7699a",
+    "storage_bucket": "connie-7699a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:609136756320:android:3723e2b6853499464e6505",
+        "android_client_info": {
+          "package_name": "com.conigital.connie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "609136756320-u4l9ijfusik2jkdhm5v8kh2k55mgmolk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABxbHUH6iJ0wCGD-pg5h6iv4yYfM1uk8Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "609136756320-u4l9ijfusik2jkdhm5v8kh2k55mgmolk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

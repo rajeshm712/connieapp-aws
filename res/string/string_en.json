@@ -1,0 +1,19 @@
+{
+  "hi":"Hi",
+  "messageWithParams":"Hi ${yourName}, Welcome you!",
+  "i_am_fine": "I am fine",
+  "how_are_you": "How are you",
+  "how_its_going": "How’s it going",
+  "how_are_you_doing": "How are you doing",
+  "whats_up": "What’s up",
+  "are_you_a_robot": "Are you a robot",
+  "yes_i_am__a_robot": "Yes I am a robot, but I’m a good one. Let me prove it. How can I help you?",
+  "are_you_a_human": "Are you human",
+  "no_i_am_a_robot": "I am a robot, but I’m a good one. Let me prove it. How can I help you?",
+  "what_is_your_name": "What is your name",
+  "how_old_are_you": "How old are you",
+  "Whats_your_age": "What’s your age",
+  "sorry_i_didnt_understand": "sorry I didn’t understand",
+  "i_didnt_understand_advance": "this is me telling you i didn't understand what you just said. I am learning, you see. could you try again?"
+
+}

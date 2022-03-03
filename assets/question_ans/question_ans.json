@@ -1,0 +1,34 @@
+{
+  "conversation" : {
+    "are you a human" : "I am a robot, but I’m a good one. Let me prove it. How can I help you?",
+    "are you a robot" : "Yes I am a robot, but I’m a good one. Let me prove it. How can I help you?",
+    "buy" : "shopping",
+    "buy sunglasses" : "shopping",
+    "else" : "this is me telling you i didn't understand what you just said. I am learning, you see. could you try again?",
+    "emergency" : "calling",
+    "hello" : "hi",
+    "hey Connie" : "Yes?",
+    "hi" : "hi",
+    "how are you" : "I am fine",
+    "how are you doing" : "I am fine",
+    "make a call" : "call",
+    "play the video" : "video",
+    "stop the video" : "stop"
+  },
+  "general" : {
+    "are you a human" : "I am a robot, but I’m a good one. Let me prove it. How can I help you?",
+    "are you a robot" : "Yes I am a robot, but I’m a good one. Let me prove it. How can I help you?",
+    "buy" : "shopping",
+    "buy sunglasses" : "shopping",
+    "else" : "this is me telling you i didn't understand what you just said. I am learning, you see. could you try again?",
+    "emergency" : "calling",
+    "hello" : "hi",
+    "hey Connie" : "Yes?",
+    "hi" : "hi",
+    "how are you" : "I am fine",
+    "how are you doing" : "I am fine",
+    "make a call" : "call",
+    "play the video" : "video",
+    "stop the video" : "stop"
+  }
+}
